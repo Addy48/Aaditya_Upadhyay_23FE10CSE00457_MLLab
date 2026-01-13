@@ -1,4 +1,5 @@
 # AadityaUpadhyay_23FE10CSE00457_MLLab
+LAB 1
 1. Load the US Housing data into a dataframe using pandas
 
 2. Check the data types of each feature(column) in the dataset.
